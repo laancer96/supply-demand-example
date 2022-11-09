@@ -1,0 +1,14 @@
+{
+  "name": "supply-demand-example",
+  "version": "1.0.0",
+  "description": "This is just a quick code exercise about supply and demand",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Oscar Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.0"
+  }
+}
